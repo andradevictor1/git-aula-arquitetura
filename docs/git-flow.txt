@@ -1,0 +1,5 @@
+Git é uma ferramenta que permite
+muita 
+praticidade 
+para o usuario 
+porque deixa o repositorio salvo na nuvem 
